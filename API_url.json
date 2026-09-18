@@ -1,0 +1,72 @@
+{"pizzas" : [
+
+  {"Id": 1, 
+  "Name" : "Margherita", 
+  "Price" : "10,99", 
+  "Ingredients" : ["wheat flour", "olive oil","tomato", "mozzarella","basilic"], 
+  "Description" : "Pizza pouvant contenir des allergènes, veuillez à bien consulter les ingrédients avant de commander",
+  "Avis" : "★★★★★"
+  },
+
+  {"Id": 2,
+  "Name" : "Quattro Formaggi",
+  "Price" : "12",
+  "Ingredients" : ["wheat flour","olive oil","tomato", "mozzarella", "gorgonzola", "parmesan", "taleggio", "basilic"],
+  "Description" : "Vous êtes un petit gourmand ! Attention au choléstréroliii",
+  "Avis" : "★★★★★"
+  },
+
+  {"Id" : 3,
+  "Name" : "Quattro Carni",
+  "Price" : "25",
+  "Ingredients" : ["wheat flour","olive oil","tomato", "mozzarella","ham", "beef", "turkey", "wagyu", "basilic"],
+  "Description" : "Vous souhaitez toute la faune dans votre assiette ?",
+  "Avis" :"★★☆☆☆"},
+
+  {"Id" : 4,
+  "Name" : "Regina",
+  "Price" : "15,12",
+  "Ingredients":["wheat flour","olive oil","tomato","mozzarella","ham", "mushrooms","egg", "basilic"],
+  "Description" : "Un oeuf coulant... Bon si vous voulez.",
+  "Avis" :"★★★☆☆"
+  },
+
+  {"Id" : 5,
+  "Name" : "Peperoni",
+  "Price" : "12.99",
+  "Ingredients" : ["wheat flour","olive oil","tomato","mozzarella", "peperoni", "basilic"],
+  "Description" : "Excellent choix ! Pizza pouvant contenir des allergènes, veuillez à bien consulter les ingrédients avant de commander",
+  "Avis" :"★★★★★"
+  },
+
+  {"Id" : 6,
+  "Name" : "Vegetariana",
+  "Price" : "14.99",
+  "Ingredients" : ["wheat flour","olive oil","tomato","mozzarella","onion", "eggplants", "zucchini", "bell peppers", "basilic"],
+  "Description" : "On veut sauver les animaux ? Je vous garantit qu'avec cette pizza vous n'allez pas tomber sur un os !",
+  "Avis" : "★★★★☆"
+  },
+
+  {"Id" : 7,
+  "Name" : "Vegana",
+  "Price" : "13.99",
+  "Ingredients" : ["wheat flour","olive oil","tomato", "mozzarella made with cashew and almond milk"],
+  "Description" : "Au cas où vous hésistiez avec la vege/marghe, notre lait de vache provient d'un élevage respectueux des animaux",
+  "Avis" :"★★★★★"
+  },
+
+  {"Id" : 8,
+  "Name" : "Hawaiana",
+  "Price" : "27.99",
+  "Ingredients" : ["wheat flour","olive oil","tomato", "mozzarella","white ham", "pineapple"],
+  "Description" : "Vous détestez l'Italie? C'est quoi, vous faites le régime 5 fruits et légumes par jour?",
+  "Avis" : "☆☆☆☆☆"},
+
+  {"Id" : 9,
+  "Name" : "Custom - call to prepare",
+  "Price" : "",
+  "Ingredients" : [],
+  "Description": "En mode, il n'y avait pas assez de choix! On veut faire la personne différente ! Vous prennez la philosophie 'être unique' trop à coeur",
+  "Avis" : "Cela ne dépend que de vous et vous seul"
+  }
+]}
